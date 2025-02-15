@@ -57,7 +57,6 @@ def graph():
         print("Bar graph created and added to the Excel sheet.")
 
 
-
 def linegraph():
     # Open the workbook and get the active sheet
     wb = xw.Book('C:\\Users\\rchrd\\Documents\\Richard\\Energtron Business Plan.xlsm')
